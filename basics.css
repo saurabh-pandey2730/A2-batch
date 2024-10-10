@@ -19,13 +19,19 @@
     height: 150px;
     width: 150px;
      background-color: rgb(222, 29, 80);
-     position: absolute;
+     /* position: absolute;
       bottom: 0;
-     right: 200px;
+     right: 200px; */
+    
 
 }
 .box4{
     height: 150px;
     width: 160px;
     background-color: rgb(60, 30, 209);
+    /* position: fixed;
+     top: 500px; 
+     right: 0; */
+     position:sticky;
+      /* top: 100px; */
 }
