@@ -1,0 +1,29 @@
+.navbar{
+    height: 65px;
+    background-color: rgb(159, 159, 159);
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar img{
+    width: 100px;
+    margin-right: 500px;
+}
+.menu-items{
+    /* border: 2px solid red; */
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 200px;
+}
+.menu-items p:hover{
+    color: rgb(0, 89, 255);
+}
+.menu-items a{
+    text-decoration: none;
+}
+.menu-items p{
+    color: red;
+    font-size: 20px;
+}
