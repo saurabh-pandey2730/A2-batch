@@ -1,0 +1,113 @@
+
+
+
+@media only screen and (min-width:260px){
+
+    .box1{
+        height: 250px;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 30px;
+        background-color: rgb(0, 0, 0);
+    }
+    .box2{
+        height: 250px;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 30px;
+        background-color: blue;
+    }
+    .box3{
+        height: 250px;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 30px;
+        background-color: rgb(187, 25, 33);
+    }
+    .box4{
+        height: 250px;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 30px;
+        background-color: rgb(60, 220, 68);
+    }
+  
+}
+@media only screen and (min-width:550px){
+
+    .container{
+        display: flex;
+        justify-content: space-around;
+    }
+    .box1{
+        height: 250px;
+        width: 120px;
+        background-color: rgb(0, 0, 0);
+    }
+    .box2{
+        height: 250px;
+        width: 120px;
+        background-color: blue;
+    }
+    .box3{
+        height: 250px;
+        width: 120px;
+        background-color: rgb(187, 25, 33);
+    }
+    .box4{
+        height: 250px;
+        width: 120px;
+        background-color: rgb(60, 220, 68);
+    }
+
+}
+@media only screen and (min-width:900px){
+
+    
+ 
+    .box1{
+        height: 300px;
+        width: 180px;
+       
+    }
+    .box2{
+        height: 300px;
+        width: 180px;
+       
+    }
+    .box3{
+        height: 300px;
+        width: 180px;
+    
+    }
+    .box4{
+        height: 300px;
+        width: 180px;
+    
+    }
+
+}
+@media only screen and (min-width:1100px){
+ 
+
+    .box1{
+        height: 400px;
+        width: 250px;
+    }
+    .box2{
+        height: 400px;
+        width: 250px;
+        
+    }
+    .box3{
+        height: 400px;
+        width: 250px;
+   
+    }
+    .box4{
+        height: 400px;
+        width: 250px;
+     
+    }
+   
+}
